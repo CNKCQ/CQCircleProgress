@@ -1,0 +1,6 @@
+framework module CQCircleProgress {
+  umbrella header "CQCircleProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}

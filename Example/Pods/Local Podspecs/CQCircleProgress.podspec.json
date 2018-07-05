@@ -1,0 +1,22 @@
+{
+  "name": "CQCircleProgress",
+  "version": "0.1.0",
+  "summary": "A short description of CQCircleProgress.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cnkcq/CQCircleProgress",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cnkcq": "chengquan.wang@ele.me"
+  },
+  "source": {
+    "git": "https://github.com/cnkcq/CQCircleProgress.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CQCircleProgress/Classes/**/*"
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CQCircleProgress_Example' do
+  pod 'CQCircleProgress', :path => '../'
+
+  target 'CQCircleProgress_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

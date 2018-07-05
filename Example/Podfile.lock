@@ -1,0 +1,16 @@
+PODS:
+  - CQCircleProgress (0.1.0)
+
+DEPENDENCIES:
+  - CQCircleProgress (from `../`)
+
+EXTERNAL SOURCES:
+  CQCircleProgress:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CQCircleProgress: 1c4e07c8b542834c0f2df949711ad16cd641e66d
+
+PODFILE CHECKSUM: 59ef7c311dd86d280d34b6962ca4193d1addfdd2
+
+COCOAPODS: 1.5.2
